@@ -9,4 +9,4 @@ The project was developed by Oliver Byl in Java using the JDK's JavaFX tool.
 
 ## Downloading
 You are more than welcome to download the source code.
-If you're just interested in the already-built program, I've included an executable jar file in this main directory.
+If you're just interested in the already-built program, I've included an executable jar file in the "build" folder.
